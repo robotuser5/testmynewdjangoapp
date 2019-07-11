@@ -1,8 +1,4 @@
-+++
-title = "Service blueprint (Django)"
-+++
 
-# Service blueprint (Django)
 
 ## Summary
 

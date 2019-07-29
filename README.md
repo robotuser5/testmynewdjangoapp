@@ -1,4 +1,4 @@
-
+test message
 
 This is a blueprint service written in [Django](https://www.djangoproject.com/). You should change this summary to describe your service. Some points to address:
 
